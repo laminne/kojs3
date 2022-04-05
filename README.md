@@ -2,6 +2,13 @@
 競技プログラミング用オンラインジャッジシステム  
 (C) 2021 - 2022 Tatsuto Yamamoto
 
+## レポジトリ(コード置き場)
+- [スコアサーバー バックエンド (TypeScript)](https://github.com/laminne/kojs3-backend)
+- [スコアサーバー フロントエンド (HTML+TypeScript)](https://github.com/laminne/kojs3-front)
+- [コンテナマネージャ (Go)](https://github.com/laminne/kojs3-worker-manager)
+- [ジャッジ/コード実行部分 (Go)](https://github.com/laminne/kojs3-worker)
+- [キュー監視スクリプト (TypeScript)](https://github.com/laminne/kojs3-queue-manager)
+
 ## 実行のフロー
 
 ![https://kroki.io/plantuml/svg/eNqVks1OAjEUhfd9igbXvgALF8alj8AGkehEMxCCiUvbGw0IRCSQaKIg_mIMwwJHMCA8zKUz-BZ2ZiK_nRE3TdN-5_T03ksopcloKq3FtGRUT1OECkIToY2QQd5wN1myBBURAHlrQkhgCeLS5gmhv3zRdkVnCOcIVYSChJB3ER4I2Ukc09BWInYQT4Xo2ra2t5_ePDyKK9wd3k3RRd5B_uka3pG4vkulCSHKn9D1DVX6MLWbZaueQWa46fryEHnp-4QhzxGFQGkTprPi0fBWNK_8xL_FoTMiYdTG9by4_Br1HsmUWMBFtjAXkxkR3VMiy9smR34hQyMbIHsRg1Prtbbo5Vt-_yy-khUcp42yy405lpfGZkfkKn8_oG72fMHHvXvZMOIHr27k_T3YKLD5zPAsbLNoVW-caMMysut_DNJEGTxFqhGfEUd0hGe3kh_Oyt5kDlF4Jz8TQFub](https://kroki.io/plantuml/svg/eNqVks1OAjEUhfd9igbXvgALF8alj8AGkehEMxCCiUvbGw0IRCSQaKIg_mIMwwJHMCA8zKUz-BZ2ZiK_nRE3TdN-5_T03ksopcloKq3FtGRUT1OECkIToY2QQd5wN1myBBURAHlrQkhgCeLS5gmhv3zRdkVnCOcIVYSChJB3ER4I2Ukc09BWInYQT4Xo2ra2t5_ePDyKK9wd3k3RRd5B_uka3pG4vkulCSHKn9D1DVX6MLWbZaueQWa46fryEHnp-4QhzxGFQGkTprPi0fBWNK_8xL_FoTMiYdTG9by4_Br1HsmUWMBFtjAXkxkR3VMiy9smR34hQyMbIHsRg1Prtbbo5Vt-_yy-khUcp42yy405lpfGZkfkKn8_oG72fMHHvXvZMOIHr27k_T3YKLD5zPAsbLNoVW-caMMysut_DNJEGTxFqhGfEUd0hGe3kh_Oyt5kDlF4Jz8TQFub)
